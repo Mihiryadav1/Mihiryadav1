@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mihir Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 
 
