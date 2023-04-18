@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mihir Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3848914-Programmer-Thomas&psig=AOvVaw306SGA0swF0QF_si-8t4mz&ust=1681894250008000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjN572Gs_4CFQAAAAAdAAAAABA4' width='400' alt='Coding'>
+<img  align-'right'src='https://assets3.lottiefiles.com/packages/lf20_z2m65ck9.json' width='400' alt='Coding'>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
