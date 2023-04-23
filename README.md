@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihir Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihiryadav1" alt="mihiryadav1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mihirtweet1" target="blank"><img src="https://img.shields.io/twitter/follow/mihirtweet1?logo=twitter&style=for-the-badge" alt="mihirtweet1" /></a> </p>
 
 - 🔭 I’m currently working on **React JS Ecommerce Application**
