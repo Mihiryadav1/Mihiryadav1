@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mihir Yadav</h1>
 <h3 align="center">A passionate Frontend Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihiryadav1&label=Profile%20views&color=0e75b6&style=flat" alt="mihiryadav1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mihiryadav1&label=Profile%20views&color=0e75b6&style=flat" alt="Mihiryadav1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihiryadav1" alt="mihiryadav1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mihiryadav1" alt="Mihiryadav1" /></a> </p>
 
 - 👯 I’m looking to collaborate on **creative ideas**
 
